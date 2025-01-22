@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 @software{markov_chain_analysis,
   author = {Your Name},
   title = {Markov Chain Analysis Tool},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/aman-24052001/Data-Science-using-statistics/markov-chain}
 }
 ```
