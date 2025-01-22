@@ -33,7 +33,7 @@ A Python implementation of Monte Carlo simulation for portfolio analysis and ris
 ```bash
 # Clone the repository
 git clone https://github.com/aman-24052001/Data-Science-using-statistics/Montecarlo.git
-cd monte-carlo-portfolio
+cd Montecarlo
 
 # Install required packages
 pip install -r requirements.txt
